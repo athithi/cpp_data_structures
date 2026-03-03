@@ -1,4 +1,4 @@
-//PROBLEM STATEMENT:Calculate Water Footprints for different Agricultural Products
+//PROBLEM STATEMENT:Calculate Water Footprints for different Agricultural Products 
 #include <iostream>
 #include <string>
 using namespace std;
